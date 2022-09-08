@@ -1,9 +1,9 @@
 #################################
-#   Naz_Tagger_bot  Bot #
+# 𝕃𝔸𝕍İℕİ𝔸 𝕋𝔸𝔾𝔾𝔼ℝ Bot #
 #################################
 # Repo Sahibi - @BenimDevil
-# Telegram - t.me/Naz_Vanessa
-# Telegram - t.me/Naz_Vanessa
+# Telegram - t.me/GRAVER_05
+# Telegram - t.me/GRAVER_05
 ##################################
 import heroku3
 import random
@@ -45,9 +45,9 @@ async def start(event):
                       [
                        Button.inline("🎛 əmrlər", data="komutlar")
                       ],
-                      [Button.url('🌱 Məni qrupa əlavə et', f'https://t.me/Naz_Tagger_bot?startgroup=a')],
-                      [Button.url('📣 Support', f'https://t.me/lovelesslifee'),
-                       Button.url('👨‍💻 Sahib', f'https://t.me/Naz_Vanessa')]
+                      [Button.url('🌱 Məni qrupa əlavə et', f'https://t.me/?startgroup=a')],
+                      [Button.url('📣 Support', f'https://t.me/LaviniaFamly'),
+                       Button.url('👨‍💻 Sahib', f'https://t.me/GRAVER_05')]
                     ),
                     link_preview=False)
 
@@ -64,9 +64,9 @@ async def handler(event):
                       [
                        Button.inline("🎛 əmrlər", data="komutlar")
                       ],
-                      [Button.url('🌱 Məni qrupa əlavə et', f'https://t.me/Naz_Tagger_bot?startgroup=a')],
-                      [Button.url('📣 Support', f'https://t.me/lovelesslifee'),
-                       Button.url('👨‍💻 Sahib', f'https://t.me/Naz_Vanessa')]
+                      [Button.url('🌱 Məni qrupa əlavə et', f'https://t.me/LaviniaTagger_bot?startgroup=a')],
+                      [Button.url('📣 Support', f'https://t.me/LaviniaFamly'),
+                       Button.url('👨‍💻 Sahib', f'https://t.me/GRAVER_05')]
                     ),
                     link_preview=False)
 
@@ -110,7 +110,7 @@ async def mentionall(event):
     await client.send_message(event.chat_id, "❄️ User tağ eləmə başladı\n⏱️ İnterval - 2 saniye",
                     buttons=(
                       [
-                      Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                      Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   ) 
@@ -124,7 +124,7 @@ async def mentionall(event):
         await event.respond("⛔ Tağ işləmi durduruldu",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   )
@@ -169,7 +169,7 @@ async def mentionalladmin(event):
     await client.send_message(event.chat_id, "❄️ Admin tağ eləmək başladı\n⏱️ İnterval - 2 saniye",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   ) 
@@ -183,7 +183,7 @@ async def mentionalladmin(event):
         await event.respond("⛔ Admin tağ eləmək durduruldu",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   )
@@ -228,7 +228,7 @@ async def tektag(event):
     await client.send_message(event.chat_id, "❄️ Tək-Tək Tağ Başladı\n⏱️ İnterval - 2 saniye",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   ) 
@@ -242,7 +242,7 @@ async def tektag(event):
         await event.respond("⛔ Tək Tək Tağ Prosesi Dayandırıldı",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   )
@@ -300,7 +300,7 @@ async def etag(event):
     await client.send_message(event.chat_id, "❄️ Emoji tağ başlandı\n⏱️ İnterval - 2 saniye",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   ) 
@@ -314,7 +314,7 @@ async def etag(event):
         await event.respond("⛔ Emoji tağ durduruldu",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   )
@@ -390,7 +390,7 @@ async def stag(event):
     await client.send_message(event.chat_id, "❄️ Söz ile etiketleme başladı\n⏱️ İnterval - 2 saniye",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   ) 
@@ -404,7 +404,7 @@ async def stag(event):
         await event.respond("⛔ Söz ile etiketleme işlemi durduruldu",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   )
@@ -450,7 +450,7 @@ async def rtag(event):
     await client.send_message(event.chat_id, "❄️ Rəng ilə tağ başladı\n⏱️ İnterval - 2 saniye",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   ) 
@@ -464,7 +464,7 @@ async def rtag(event):
         await event.respond("⛔ Rəng tağ durduruldu",
                     buttons=(
                       [
-                       Button.url('📣 Support', f'https://t.me/lovelesslifee')
+                       Button.url('📣 Support', f'https://t.me/LaviniaFamly')
                       ]
                     )
                   )
