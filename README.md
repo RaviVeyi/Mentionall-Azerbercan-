@@ -10,6 +10,6 @@ _**Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanallarda 200'e kad
 
 
 ### 🎯 Krediler ve Diğer
-- [Ben](https://t.me/GRAVER_05) bu Proje için ;)
+- [Ben](https://t.me/BenimKiller) bu Proje için ;)
 
 **Beni Github'dan takip etmeyi unutmayın ✌️**
