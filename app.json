@@ -1,12 +1,12 @@
 {
-      "name": "LaviniaTagger_bot",
-      "description": "LaviniaTagger_bot",
+      "name": "Naz_Tagger_bot",
+      "description": "Naz_Tagger_bot",
       "keywords": [
          "telegram",
          "tagger",
          "group",
-         "GRAVER_05",
-         "LaviniaFamly"
+         "Naz_Vanessa",
+         "lovelesslifee"
       ],   
    "repository": "https://github.com/RaviVeyi/Mentionall-Azerbercan-",
    "env": {
@@ -40,7 +40,7 @@
       },
       "startmesaj": {
          "description": "Bota start verilince mesajınız",
-         "value": "**Salam** __Çox funksiyalı tağ botu\n❗Qrupda Admin Etmək Vacibdir ★__"
+         "value": "**Salam** __Çox funksiyalı tağ botu\n❗Qrupda Admin Etmək Vacibdir❗@lovelesslifee ZEHMET OLMASA ABUNE OLARDINIZ 🥺 __"
       },
       "qrupstart": {
          "description": "Grupta start verildiği zaman mesajınız",
